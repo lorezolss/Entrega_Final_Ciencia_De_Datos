@@ -3,3 +3,4 @@ pero tuve que sacarlo porque me traia problemas para subirlo al github...
 me decia que los metadata.widgets debian tener un atributo state... pero no se como agregarlo, donde? no lo encuentro
 Tambien veo que no aparecen los graficos de plotly que estan buenisimos en mi colab, jaaa, solo yo los disfruto!
 De todas maneras vale la pena seguir practicando. Muchas gracias por tu paciencia!!
+Buenas vacaciones!! esperemos vernos en un próximo curso
